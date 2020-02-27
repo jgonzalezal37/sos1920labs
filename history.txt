@@ -1,0 +1,37 @@
+    1  cd /workspace/sos1920labs; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/sos1920labs; clear
+    4  ls
+    5  mkdir sos1920labs
+    6  cd sos1920labs/
+    7  ls
+    8  cd
+    9  ls
+   10  cd /workspace/sos1920labs/
+   11  ls
+   12  rm sos1920labs/
+   13  mkdir sos1920-labs
+   14  cd sos1920
+   15  echo "# sos1920labs" >> README.md
+   16  ls
+   17  cd /workspace/
+   18  cd sos1920-labs
+   19  ls
+   20  mkdir sos1920-labs
+   21  ls
+   22  cd sos1920-labs/
+   23  echo "# sos1920labs" >> README.md
+   24  ls
+   25  cd /workspace/
+   26  ls
+   27  cd sos1920labs
+   28  mkdir sos1920-labs
+   29  ls
+   30  cd sos1920-labs/
+   31  echo "# sos1920labs" >> README.md
+   32  ls
+   33  git init
+   34  git add README.md
+   35  ls -la
+   36  history
+   37  history > history.txt

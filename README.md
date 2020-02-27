@@ -1,1 +1,2 @@
-# sos1920labs
+# sos1920-labs
+Este es el repositotio del laboratio L04
