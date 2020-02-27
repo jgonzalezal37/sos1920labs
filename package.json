@@ -1,0 +1,23 @@
+{
+  "name": "sos1929-l04",
+  "version": "0.0.0",
+  "description": "results from l04",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgonzalezal37/sos1920labs.git"
+  },
+  "author": "jgonzalezal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgonzalezal37/sos1920labs/issues"
+  },
+  "homepage": "https://github.com/jgonzalezal37/sos1920labs#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
