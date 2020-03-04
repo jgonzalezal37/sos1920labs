@@ -1,0 +1,23 @@
+{
+  "name": "feedback1",
+  "version": "1.0.0",
+  "description": "primer feedback",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgonzalezal37/sos1920labs.git"
+  },
+  "author": "jgonzalezal37",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgonzalezal37/sos1920labs/issues"
+  },
+  "homepage": "https://github.com/jgonzalezal37/sos1920labs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
